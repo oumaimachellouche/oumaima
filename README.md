@@ -20,12 +20,16 @@ Languages
 
 
 Database
+
+
   <a href="https://www.sqlite.org/">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
 </a>
 
+
 AI/ML
-- <a href="https://numpy.org/">
+
+<a href="https://numpy.org/">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
 </a>
 
