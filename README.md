@@ -62,6 +62,7 @@ AI/ML
 ## 🌍 Connect With Me
 - LinkedIn: www.linkedin.com/in/oumaima-chellouche-a4528a300
 - Email:mimachellouche@gmail.com
+- oumaima.chellouche@enstsa.edu.dz
 
 ---
 
